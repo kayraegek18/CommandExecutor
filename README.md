@@ -2,7 +2,7 @@
 
 > You can use it to run commands on the player through the console.
 
-# DOCUMENTATION
+## DOCUMENTATION
 You can use the following commands to send commands in-game or via console:
 playercommand <player name> <command>
 pcommand <player name> <command>
