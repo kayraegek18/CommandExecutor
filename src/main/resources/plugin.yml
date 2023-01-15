@@ -1,0 +1,11 @@
+name: CommandExecutor
+version: '${project.version}'
+main: net.kayega.CommandExecutor
+api-version: 1.15
+authors: [ Kayega ]
+website: https://kayraegek18.github.io
+commands:
+  playercommand:
+    usage: /<command>
+  pcommand:
+    usage: /<command>
